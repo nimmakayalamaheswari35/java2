@@ -122,71 +122,8 @@ while(c<4);
 					In case 1 the MGR object is created and the user input is taken. The boolean value will become true when the use enters details.....
 code is written in such a way that whenever the Manager details are created then only the display() and raise() are going to execute else it will simply show **no records**
 OUTPUT:
-Microsoft Windows [Version 10.0.18363.1440]
-(c) 2019 Microsoft Corporation. All rights reserved.
 
-C:\Users\LENOVO>D:
 
-D:\>cd JAVA1\basics
-
-D:\JAVA1\basics>javac Manager.java
-
-D:\JAVA1\basics>java Manager
-
-1.Create
-2.Display
-3.Raised Salary
-4.Exit
-Entr your choice
-2
-
-No data...
-
-No data...
-
-1.Create
-2.Display
-3.Raised Salary
-4.Exit
-Entr your choice
-1
-
-Enter Name
-Mahi
-Enter Age
-22
-Enter Salary
-25000
-Enter designation
-ASE
-
-1.Create
-2.Display
-3.Raised Salary
-4.Exit
-Entr your choice
-2
-Name:Mahi
-Age:22
-Salary:25000
-Designation:ASE
-Salary Raised....
-Enter 
-1.Create
-2.Display
-3.Raised Salary
-4.Exit
-Entr your choice
-3
-Salary Raised....
-
-1.Create
-2.Display
-3.Raised Salary
-4.Exit
-Entr your choice
-4
-Exit
 
 
 D:\JAVA1\basics>![2021-05-14](https://user-images.githubusercontent.com/84019315/118269049-d6d43100-b4db-11eb-8271-5219724c62d6.png)
