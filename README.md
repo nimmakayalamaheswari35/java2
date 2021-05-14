@@ -187,5 +187,8 @@ Salary Raised....
 Entr your choice
 4
 
-D:\JAVA1\basics>
+D:\JAVA1\basics>![2021-05-14](https://user-images.githubusercontent.com/84019315/118269049-d6d43100-b4db-11eb-8271-5219724c62d6.png)
 
+
+![2021-05-14 (2)](https://user-images.githubusercontent.com/84019315/118269578-8dd0ac80-b4dc-11eb-9a73-5ddcc111f779.png)
+![2021-05-14 (3)](https://user-images.githubusercontent.com/84019315/118269683-ab057b00-b4dc-11eb-89aa-d65f88b68977.png)
