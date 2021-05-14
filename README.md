@@ -186,6 +186,8 @@ Salary Raised....
 4.Exit
 Entr your choice
 4
+Exit
+
 
 D:\JAVA1\basics>![2021-05-14](https://user-images.githubusercontent.com/84019315/118269049-d6d43100-b4db-11eb-8271-5219724c62d6.png)
 
