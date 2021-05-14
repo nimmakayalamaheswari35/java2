@@ -1,4 +1,4 @@
-# Manager Details
+# Manager Details##
 Simple Code written to take Manager details.
 
 
@@ -6,7 +6,7 @@ Simple Code written to take Manager details.
 In business logic we have given the properties like name,age,salary and designation of MGR.
 Before creating the class in order for to take input from user we use Scanner class so importing Scanner is mandatory
         import java.util.Scanner;
-##MGR CLASS
+##MGR CLASS##
 
 
 ## In MGR class all the Parameters(states) are declared.
@@ -23,7 +23,7 @@ Input is taken from the user by using Scanner object.(t)
 
 And the methods(behaviours) to create the employee details are 
 read(),display(),raiseSal are defined as follows
-###read() 
+###read() ##
    void read()
        {
         System.out.println("Enter Name:");
@@ -45,7 +45,7 @@ Like the name age,sal, design of the Manager by using the methods in Scanner cla
 					
 					
 						   
-####display()	  
+####display()####	  
 	
 	
        void display()
@@ -59,14 +59,14 @@ Like the name age,sal, design of the Manager by using the methods in Scanner cla
 									
 									This method is gives/displays the record of the employee created bu using **MGR()** method.	 
 	 
-###raise
+###raise###
       public void raise()
          {
          sal=sal/1000;
          System.out.println("Salary raised ");
          }
 In this method the logic is written to make hike in salary by 1000. and the sal is displayed along with the message that the **Salary is raised**
-##MAIN CLASS
+##MAIN CLASS##
 In the Main class.... variable choice is declared in order to give user the choice to choose the options
 and a Boolen variable is declared.
 
@@ -90,7 +90,7 @@ are to be displayed as menu to the user so that the user can make a choice
 that is kept in iterative statement for user felxibility and the choices are kept in switch case.
 
 
-
+##Do##
     do
     {
     System.out.println("\n1.Create");
