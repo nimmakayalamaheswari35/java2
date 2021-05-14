@@ -1,4 +1,4 @@
-# Manager DETAILS
+# Manager Details
 Simple Code written to take Manager details.
 
 
@@ -6,7 +6,7 @@ It is a program with a business logic and real entity.
 In business logic we have given the properties like name,age,salary and designation of MGR.
 Before creating the class in order for to take input from user we use Scanner class so importing Scanner is mandatory
         import java.util.Scanner;
-**MGR CLASS**
+##MGR CLASS
 In MGR class all the Parameters(states) are declared.
 String name;
            String design; 
@@ -43,7 +43,7 @@ Like the name age,sal, design of the Manager by using the methods in Scanner cla
 					
 					
 						   
-**display()**	  
+####display()	  
 	
 	
        void display()
